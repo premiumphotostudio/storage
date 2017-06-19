@@ -12,11 +12,11 @@
 	
 	"smallAd": {
 
-		"icon":"https://lh3.googleusercontent.com/4Q_mlsSsnQkO4jEt3S1e2462bK0VcZJmlrsk0IWxRUJlXM8QsDPj7_LSJXdSFieTKBzr=w300",
-        "cover":"https://lh3.googleusercontent.com/4Q_mlsSsnQkO4jEt3S1e2462bK0VcZJmlrsk0IWxRUJlXM8QsDPj7_LSJXdSFieTKBzr=w300",
-        "appName":"Eyelashes Makeup",
+		"icon":"https://lh3.googleusercontent.com/C6tCtwTt2LviNeCfsL9xO6qmYiXWGzb7dHJs8tZvRnavYpx5GmohXepwivJWPlCvbw=w300",
+        "cover":"https://lh3.googleusercontent.com/C6tCtwTt2LviNeCfsL9xO6qmYiXWGzb7dHJs8tZvRnavYpx5GmohXepwivJWPlCvbw=w300",
+        "appName":"Makeup Camera",
         "publisherName":"PREMIUM PHOTO STUDIO",
-        "packageName":"pps.eyelashes.makeup.camera",
-        "url":"https://play.google.com/store/apps/details?id=pps.eyelashes.makeup.camera"
+        "packageName":"pps.photo.editor.makeup.camera",
+        "url":"https://play.google.com/store/apps/details?id=pps.photo.editor.makeup.camera"
 	}
 }
