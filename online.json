@@ -3,7 +3,7 @@
 	"adObject": {
 
 		"icon":"https://lh3.googleusercontent.com/CxvhQ7QFx61zjbjaozkL_IzyOD0wwU6A_FhOtLjituloRVZB9gubzNDPmlWOUyZA3R4=w300",
-        "cover":"https://lh3.googleusercontent.com/2ZsoHxgW7vRl_4gqa7nlM-hKVzXJ_ELSOJ-_apMhjQTUW88Ml0yInCMFDWYLSdiYY1S1=h310",
+        "cover":"https://raw.githubusercontent.com/premiumphotostudio/storage/master/cover.png",
         "appName":"Filters 4 Musically",
         "publisherName":"Best ever Makeup Camera",
         "packageName":"com.filters.forMusically.filters4musically",
@@ -13,7 +13,7 @@
 	"smallAd": {
 
 		"icon":"https://lh3.googleusercontent.com/CxvhQ7QFx61zjbjaozkL_IzyOD0wwU6A_FhOtLjituloRVZB9gubzNDPmlWOUyZA3R4=w300",
-        "cover":"https://lh3.googleusercontent.com/2ZsoHxgW7vRl_4gqa7nlM-hKVzXJ_ELSOJ-_apMhjQTUW88Ml0yInCMFDWYLSdiYY1S1=h310",
+        "cover":"https://raw.githubusercontent.com/premiumphotostudio/storage/master/cover.png",
         "appName":"Filters 4 Musically",
         "publisherName":"PREMIUM PHOTO STUDIO",
         "packageName":"com.filters.forMusically.filters4musically",
