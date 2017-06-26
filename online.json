@@ -12,11 +12,11 @@
 	
 	"smallAd": {
 
-		"icon":"https://lh3.googleusercontent.com/C6tCtwTt2LviNeCfsL9xO6qmYiXWGzb7dHJs8tZvRnavYpx5GmohXepwivJWPlCvbw=w300",
-        "cover":"https://lh3.googleusercontent.com/C6tCtwTt2LviNeCfsL9xO6qmYiXWGzb7dHJs8tZvRnavYpx5GmohXepwivJWPlCvbw=w300",
-        "appName":"Makeup Camera",
+		"icon":"https://lh3.googleusercontent.com/CxvhQ7QFx61zjbjaozkL_IzyOD0wwU6A_FhOtLjituloRVZB9gubzNDPmlWOUyZA3R4=w300",
+        "cover":"https://lh3.googleusercontent.com/2ZsoHxgW7vRl_4gqa7nlM-hKVzXJ_ELSOJ-_apMhjQTUW88Ml0yInCMFDWYLSdiYY1S1=h310",
+        "appName":"Filters 4 Musically",
         "publisherName":"PREMIUM PHOTO STUDIO",
-        "packageName":"pps.photo.editor.makeup.camera",
-        "url":"https://play.google.com/store/apps/details?id=pps.photo.editor.makeup.camera"
+        "packageName":"com.filters.forMusically.filters4musically",
+        "url":"https://play.google.com/store/apps/details?id=com.filters.forMusically.filters4musically"
 	}
 }
