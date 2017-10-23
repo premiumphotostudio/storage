@@ -2,12 +2,12 @@
 	"adType":"GOOGLE_AD",
 	"adObject": {
 
-		"icon":"https://lh3.googleusercontent.com/CxvhQ7QFx61zjbjaozkL_IzyOD0wwU6A_FhOtLjituloRVZB9gubzNDPmlWOUyZA3R4=w300",
+		"icon":"https://lh3.googleusercontent.com/WYuSPpUAn0GQqm8NrBTgnCfLxSsZjNezK2Oz_ft8abSZ6-u69p12mpjn7RB6fLmdCA=w300",
         "cover":"https://raw.githubusercontent.com/premiumphotostudio/storage/master/cover.png",
-        "appName":"Filters 4 Musically",
-        "publisherName":"Best ever Makeup Camera",
-        "packageName":"com.filters.forMusically.filters4musically",
-        "url":"https://play.google.com/store/apps/details?id=com.filters.forMusically.filters4musically"
+        "appName":"Halloween Photo Frames 2017",
+        "publisherName":"Favorite photos of the Halloween night",
+        "packageName":"pps.halloween.photo.frames.ghost.frame",
+        "url":"https://play.google.com/store/apps/details?id=pps.halloween.photo.frames.ghost.frame"
 	},
 	
 	"smallAd": {
