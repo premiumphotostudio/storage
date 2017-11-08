@@ -2,12 +2,12 @@
 	"adType":"GOOGLE_AD",
 	"adObject": {
 
-		"icon":"https://lh3.googleusercontent.com/5gvdqfI2uI0zf802g_kyQDJKttsm_KIhhhWCcjMHY10iBEZoyNFlrrl6feFDfB2yAA=w300",
-        "cover":"https://lh3.googleusercontent.com/pXz3bYimjV-ub3u_cbyIwUG3RDiUFZGlqp3NlpV34H79XtBC2vUXcn8WBlI8I_jyM7A=h900",
-        "appName":"City Photo Frames",
-        "publisherName":"All the city lovers in the world...",
-        "packageName":"city.photo.frames",
-        "url":"https://play.google.com/store/apps/details?id=pps.city.photo.frames"
+		"icon":"https://lh3.googleusercontent.com/WYuSPpUAn0GQqm8NrBTgnCfLxSsZjNezK2Oz_ft8abSZ6-u69p12mpjn7RB6fLmdCA=w300",
+        "cover":"https://raw.githubusercontent.com/premiumphotostudio/storage/master/cover.png",
+        "appName":"Halloween Photo Frames 2017",
+        "publisherName":"Favorite photos of the Halloween night",
+        "packageName":"pps.halloween.photo.frames.ghost.frame",
+        "url":"https://play.google.com/store/apps/details?id=pps.halloween.photo.frames.ghost.frame"
 	},
 	
 	"smallAd": {
