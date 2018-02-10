@@ -1,19 +1,19 @@
 {
-        "adType": "GOOGLE_AD",
-        "adObject": {
-                "icon": "https://raw.githubusercontent.com/premiumphotostudio/storage/master/i15ic.png",
-                "cover": "https://raw.githubusercontent.com/premiumphotostudio/storage/master/i15cv.png",
-                "appName": "Christmas Photo Frames",
-                "publisherName": "The best Christmas photos",
-                "packageName": "pps.christmas.photo.frames",
-                "url": "https://play.google.com/store/apps/details?id=pps.christmas.photo.frames"
-        },
-        "smallAd": {
-                "icon": "https://raw.githubusercontent.com/premiumphotostudio/storage/master/i14ic.png",
-                "cover": "https://raw.githubusercontent.com/premiumphotostudio/storage/master/i14cv.png",
-                "appName": "Thanksgiving Photo Frames",
-                "publisherName": "PREMIUM PHOTO STUDIO",
-                "packageName": "us.thanks.giving.photo.frames.newYear",
-                "url": "https://play.google.com/store/apps/details?id=us.thanks.giving.photo.frames.newYear"
-        }
+    "adType": "GOOGLE_AD",
+    "adObject": {
+        "icon": "https://raw.githubusercontent.com/premiumphotostudio/storage/master/m03ic.png",
+        "cover": "https://raw.githubusercontent.com/premiumphotostudio/storage/master/m03cv.jpeg",
+        "appName": "Makeup Camera",
+        "publisherName": "The best make photos",
+        "packageName": "pps.photo.editor.makeup.camera",
+        "url": "https://play.google.com/store/apps/details?id=pps.photo.editor.makeup.camera"
+    },
+    "smallAd": {
+        "icon": "https://raw.githubusercontent.com/premiumphotostudio/storage/master/m03ic.png",
+        "cover": "https://raw.githubusercontent.com/premiumphotostudio/storage/master/m03cv.jpeg",
+        "appName": "Makeup Camera",
+        "publisherName": "PREMIUM PHOTO STUDIO",
+        "packageName": "pps.photo.editor.makeup.camera",
+        "url": "https://play.google.com/store/apps/details?id=pps.photo.editor.makeup.camera"
+    }
 }
