@@ -1,19 +1,19 @@
 {
     "adType": "GOOGLE_AD",
     "adObject": {
-        "icon": "https://raw.githubusercontent.com/premiumphotostudio/storage/master/m03ic.png",
-        "cover": "https://raw.githubusercontent.com/premiumphotostudio/storage/master/m03cv.jpeg",
-        "appName": "Makeup Camera",
-        "publisherName": "The best make photos",
-        "packageName": "pps.photo.editor.makeup.camera",
-        "url": "https://play.google.com/store/apps/details?id=pps.photo.editor.makeup.camera"
+        "icon": "https://lh3.googleusercontent.com/oUumwu8K50ptpuE8xZO5cIzRoR32sez8sIgZGmZ7L260ASxpRoNQCUFqzdJDnnb9ZA=s360-rw",
+        "cover": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/graphice.png",
+        "appName": "Face Emoji Photo Editor",
+        "publisherName": "Photo collage Master",
+        "packageName": "pcm.face.emoji.photo.editor",
+        "url": ""
     },
     "smallAd": {
-        "icon": "https://raw.githubusercontent.com/premiumphotostudio/storage/master/m03ic.png",
-        "cover": "https://raw.githubusercontent.com/premiumphotostudio/storage/master/m03cv.jpeg",
-        "appName": "Makeup Camera",
-        "publisherName": "PREMIUM PHOTO STUDIO",
-        "packageName": "pps.photo.editor.makeup.camera",
-        "url": "https://play.google.com/store/apps/details?id=pps.photo.editor.makeup.camera"
+        "icon": "https://lh3.googleusercontent.com/oUumwu8K50ptpuE8xZO5cIzRoR32sez8sIgZGmZ7L260ASxpRoNQCUFqzdJDnnb9ZA=s360-rw",
+        "cover": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/graphice.png",
+        "appName": "Face Emoji Photo Editor",
+        "publisherName": "Photo collage Master",
+        "packageName": "pcm.face.emoji.photo.editor",
+        "url": ""
     }
 }
