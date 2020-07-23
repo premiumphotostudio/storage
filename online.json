@@ -1,19 +1,19 @@
 {
     "adType": "GOOGLE_AD",
     "adObject": {
-        "icon": "https://lh3.googleusercontent.com/oUumwu8K50ptpuE8xZO5cIzRoR32sez8sIgZGmZ7L260ASxpRoNQCUFqzdJDnnb9ZA=s360-rw",
-        "cover": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/graphice.png",
-        "appName": "Face Emoji Photo Editor",
-        "publisherName": "Photo collage Master",
-        "packageName": "pcm.face.emoji.photo.editor",
-        "url": "https://play.google.com/store/apps/details?id=pcm.face.emoji.photo.editor"
+        "icon": "https://lh3.googleusercontent.com/-OKx4eyLmqUqQMKgabp13LRf5fzyNjzIIevEvlSCZPePRxWl6PvxI7nTSB5YGJ370BE=s360-rw",
+        "cover": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/fcws.png",
+        "appName": "Face Sweet Camera",
+        "publisherName": "Sweet Art Master",
+        "packageName": "sweet.art.master.face.sweet.camera",
+        "url": "https://play.google.com/store/apps/details?id=sweet.art.master.face.sweet.camera"
     },
     "smallAd": {
-        "icon": "https://lh3.googleusercontent.com/oUumwu8K50ptpuE8xZO5cIzRoR32sez8sIgZGmZ7L260ASxpRoNQCUFqzdJDnnb9ZA=s360-rw",
-        "cover": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/graphice.png",
-        "appName": "Face Emoji Photo Editor",
-        "publisherName": "Photo collage Master",
-        "packageName": "pcm.face.emoji.photo.editor",
-        "url": "https://play.google.com/store/apps/details?id=pcm.face.emoji.photo.editor"
+        "icon": "https://lh3.googleusercontent.com/-OKx4eyLmqUqQMKgabp13LRf5fzyNjzIIevEvlSCZPePRxWl6PvxI7nTSB5YGJ370BE=s360-rw",
+        "cover": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/fcws.png",
+        "appName": "Face Sweet Camera",
+        "publisherName": "Sweet Art Master",
+        "packageName": "sweet.art.master.face.sweet.camera",
+        "url": "https://play.google.com/store/apps/details?id=sweet.art.master.face.sweet.camera"
     }
 }
