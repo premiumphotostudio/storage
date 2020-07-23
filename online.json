@@ -2,7 +2,7 @@
     "adType": "GOOGLE_AD",
     "adObject": {
         "icon": "https://lh3.googleusercontent.com/-OKx4eyLmqUqQMKgabp13LRf5fzyNjzIIevEvlSCZPePRxWl6PvxI7nTSB5YGJ370BE=s360-rw",
-        "cover": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/fcws.png",
+        "cover": "https://raw.githubusercontent.com/premiumphotostudio/storage/master/fcws.png",
         "appName": "Face Sweet Camera",
         "publisherName": "Sweet Art Master",
         "packageName": "sweet.art.master.face.sweet.camera",
@@ -10,7 +10,7 @@
     },
     "smallAd": {
         "icon": "https://lh3.googleusercontent.com/-OKx4eyLmqUqQMKgabp13LRf5fzyNjzIIevEvlSCZPePRxWl6PvxI7nTSB5YGJ370BE=s360-rw",
-        "cover": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/fcws.png",
+        "cover": "https://raw.githubusercontent.com/premiumphotostudio/storage/master/fcws.png",
         "appName": "Face Sweet Camera",
         "publisherName": "Sweet Art Master",
         "packageName": "sweet.art.master.face.sweet.camera",
