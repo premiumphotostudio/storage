@@ -1,17 +1,17 @@
 {
     "adType": "GOOGLE_AD",
     "adObject": {
-        "icon": "https://lh3.googleusercontent.com/-OKx4eyLmqUqQMKgabp13LRf5fzyNjzIIevEvlSCZPePRxWl6PvxI7nTSB5YGJ370BE=s360-rw",
-        "cover": "https://raw.githubusercontent.com/premiumphotostudio/storage/master/fcws.png",
-        "appName": "Face Sweet Camera",
-        "publisherName": "Sweet Art Master",
-        "packageName": "sweet.art.master.face.sweet.camera",
-        "url": "https://play.google.com/store/apps/details?id=sweet.art.master.face.sweet.camera"
+        "icon": "https://lh3.googleusercontent.com/OccqptAmxeEEGxxAUW_higbZjm9EECq0zFCalCWbjbJMnF90OZUbO2kpYb0ewkLrBA=s360-rw",
+        "cover": "https://raw.githubusercontent.com/premiumphotostudio/storage/master/crown_graphic.png",
+        "appName": "Crown Editor Heart Filters",
+        "publisherName": "LFB ★★★★★",
+        "packageName": "live.face.beauty.crown.editor.heart.filter4pictures",
+        "url": "https://play.google.com/store/apps/details?id=live.face.beauty.crown.editor.heart.filter4pictures"
     },
     "smallAd": {
         "icon": "https://lh3.googleusercontent.com/OccqptAmxeEEGxxAUW_higbZjm9EECq0zFCalCWbjbJMnF90OZUbO2kpYb0ewkLrBA=s360-rw",
         "cover": "https://raw.githubusercontent.com/premiumphotostudio/storage/master/crown_graphic.png",
-        "appName": "Crown Editor",
+        "appName": "Crown Heart",
         "publisherName": "Live Face Beauty",
         "packageName": "live.face.beauty.crown.editor.heart.filter4pictures",
         "url": "https://play.google.com/store/apps/details?id=live.face.beauty.crown.editor.heart.filter4pictures"
