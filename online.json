@@ -1,19 +1,19 @@
 {
     "adType": "GOOGLE_AD",
     "adObject": {
-        "icon": "https://lh3.googleusercontent.com/OccqptAmxeEEGxxAUW_higbZjm9EECq0zFCalCWbjbJMnF90OZUbO2kpYb0ewkLrBA=s360-rw",
-        "cover": "https://raw.githubusercontent.com/premiumphotostudio/storage/master/crown_graphic.png",
-        "appName": "Crown Editor Heart Filters",
-        "publisherName": "LFB ★★★★★",
-        "packageName": "live.face.beauty.crown.editor.heart.filter4pictures",
-        "url": "https://play.google.com/store/apps/details?id=live.face.beauty.crown.editor.heart.filter4pictures"
+        "icon": "https://lh3.googleusercontent.com/IjhMBsah5FH19uXVGkneJWagZFXGwtCVe01whfkjSkWM8PAhXGBN0AO68xb-1UgwWZY=s360-rw",
+        "cover": "https://raw.githubusercontent.com/premiumphotostudio/storage/master/livefacegraphic.png",
+        "appName": "Sweet Camera Offline",
+        "publisherName": "Live Face Beauty",
+        "packageName": "live.face.beauty.sticker.sweet.camera",
+        "url": "https://play.google.com/store/apps/details?id=live.face.beauty.sticker.sweet.camera"
     },
     "smallAd": {
-        "icon": "https://lh3.googleusercontent.com/OccqptAmxeEEGxxAUW_higbZjm9EECq0zFCalCWbjbJMnF90OZUbO2kpYb0ewkLrBA=s360-rw",
-        "cover": "https://raw.githubusercontent.com/premiumphotostudio/storage/master/crown_graphic.png",
-        "appName": "Crown Heart",
+        "icon": "https://lh3.googleusercontent.com/IjhMBsah5FH19uXVGkneJWagZFXGwtCVe01whfkjSkWM8PAhXGBN0AO68xb-1UgwWZY=s360-rw",
+        "cover": "https://raw.githubusercontent.com/premiumphotostudio/storage/master/livefacegraphic.png",
+        "appName": "Live Face",
         "publisherName": "Live Face Beauty",
-        "packageName": "live.face.beauty.crown.editor.heart.filter4pictures",
-        "url": "https://play.google.com/store/apps/details?id=live.face.beauty.crown.editor.heart.filter4pictures"
+        "packageName": "live.face.beauty.sticker.sweet.camera",
+        "url": "https://play.google.com/store/apps/details?id=live.face.beauty.sticker.sweet.camera"
     }
 }
