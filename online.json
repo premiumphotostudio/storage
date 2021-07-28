@@ -1,12 +1,12 @@
 {
     "adType": "GOOGLE_AD",
     "adObject": {
-        "icon": "https://play-lh.googleusercontent.com/gyQDawrDTq9kbT5ugcvQPj8Tnh8LYGPfP6NsN0z0fUpzNDrNZYFTQMXYoE6DKNKCEms=s360-rw",
+        "icon": "https://play-lh.googleusercontent.com/oUumwu8K50ptpuE8xZO5cIzRoR32sez8sIgZGmZ7L260ASxpRoNQCUFqzdJDnnb9ZA=s360-rw",
         "cover": "https://raw.githubusercontent.com/chuhuawie/livefacebeauty/master/splitgraphic.png",
         "appName": "Makeup Camera",
-        "publisherName": "PHOTO BEAUTY PLUS",
-        "packageName": "photoBeautyPlus.makeup.camera",
-        "url": "https://play.google.com/store/apps/details?id=photoBeautyPlus.makeup.camera"
+        "publisherName": "Photo Collage Master",
+        "packageName": "pcm.face.emoji.photo.editor",
+        "url": "https://play.google.com/store/apps/details?id=pcm.face.emoji.photo.editor"
     },
     "smallAd": {
         "icon": "https://play-lh.googleusercontent.com/oUumwu8K50ptpuE8xZO5cIzRoR32sez8sIgZGmZ7L260ASxpRoNQCUFqzdJDnnb9ZA=s360-rw",
