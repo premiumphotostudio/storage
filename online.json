@@ -1,19 +1,19 @@
 {
     "adType": "GOOGLE_AD",
     "adObject": {
-        "icon": "https://lh3.googleusercontent.com/IjhMBsah5FH19uXVGkneJWagZFXGwtCVe01whfkjSkWM8PAhXGBN0AO68xb-1UgwWZY=s360-rw",
-        "cover": "https://raw.githubusercontent.com/premiumphotostudio/storage/master/livefacegraphic.png",
-        "appName": "Sweet Camera Offline",
-        "publisherName": "Live Face Beauty",
-        "packageName": "live.face.beauty.sticker.sweet.camera",
-        "url": "https://play.google.com/store/apps/details?id=live.face.beauty.sticker.sweet.camera"
+        "icon": "https://play-lh.googleusercontent.com/gyQDawrDTq9kbT5ugcvQPj8Tnh8LYGPfP6NsN0z0fUpzNDrNZYFTQMXYoE6DKNKCEms=s360-rw",
+        "cover": "https://raw.githubusercontent.com/chuhuawie/livefacebeauty/master/splitgraphic.png",
+        "appName": "Makeup Camera",
+        "publisherName": "PHOTO BEAUTY PLUS",
+        "packageName": "photoBeautyPlus.makeup.camera",
+        "url": "https://play.google.com/store/apps/details?id=photoBeautyPlus.makeup.camera"
     },
     "smallAd": {
-        "icon": "https://lh3.googleusercontent.com/IjhMBsah5FH19uXVGkneJWagZFXGwtCVe01whfkjSkWM8PAhXGBN0AO68xb-1UgwWZY=s360-rw",
+        "icon": "https://play-lh.googleusercontent.com/oUumwu8K50ptpuE8xZO5cIzRoR32sez8sIgZGmZ7L260ASxpRoNQCUFqzdJDnnb9ZA=s360-rw",
         "cover": "https://raw.githubusercontent.com/premiumphotostudio/storage/master/livefacegraphic.png",
-        "appName": "Live Face",
-        "publisherName": "Live Face Beauty",
-        "packageName": "live.face.beauty.sticker.sweet.camera",
-        "url": "https://play.google.com/store/apps/details?id=live.face.beauty.sticker.sweet.camera"
+        "appName": "Face Emoji Photo Editor",
+        "publisherName": "Photo Collage Master",
+        "packageName": "pcm.face.emoji.photo.editor",
+        "url": "https://play.google.com/store/apps/details?id=pcm.face.emoji.photo.editor"
     }
 }
